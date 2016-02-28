@@ -1,0 +1,12 @@
+.hidden {
+  display: none;
+}
+
+.currency-text {
+  color: #4a4a4a;
+}
+
+body {
+  width: 300px;
+  height: 250px;
+}
